@@ -34,7 +34,7 @@
 #define NT 4000
 #endif
 #ifndef NREP
-#define NREP 5
+#define NREP 20
 #endif
 #ifndef DT
 #define DT 0.01

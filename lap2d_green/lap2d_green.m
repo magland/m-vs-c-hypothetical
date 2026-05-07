@@ -16,7 +16,7 @@ if nargin < 1, nthreads = 1; end
 
 NS = 4000;
 NT = 4000;
-NREP = 5;
+NREP = 20;
 DT = 0.01;
 
 actual_nthreads = nthreads;
